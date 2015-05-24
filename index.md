@@ -8,6 +8,8 @@ It contains resources about the Forth language family.
 
 [A list of all wiki pages can be found here.](http://www.reddit.com/r/Forth/wiki/pages/)
 
+[the source code of this wiki is mirrored on github.](https://github.com/ForthHub/forth-wiki-on-reddit)
+
 All discussions, questions & ideas are welcome here.
 Some questions have been asked
 and answered many times over.
