@@ -49,6 +49,10 @@ Forth has many libraries.  Please visit the following page to explore.
 
 * [list of libraries of forth](http://www.reddit.com/r/forth/wiki/libraries)
 
+## History
+
+* [Forth - The Early Years](http://www.colorforth.com/HOPL.html)
+* [The evolution of Forth](http://www.forth.com/resources/evolution/index.html)
 
 -----------------------------------
 

@@ -14,18 +14,12 @@ and the parade marching on ...
 
 ## ANSI forth
 
-The 1994 ANSI standard.
+  * The 1994 ANSI standard.
+    * PDF: http://www.greenarraychips.com/home/documents/dpans94.pdf
+    * html: http://forth.sourceforge.net/std/dpans/
 
-* PDF: http://www.greenarraychips.com/home/documents/dpans94.pdf
-* html: http://forth.sourceforge.net/std/dpans/
-
-There are many implementations compatible with this standard. Here are a few:
-
-* http://www.win32forth.org/
-* http://www.gnu.org/software/gforth/
-* http://www.softsynth.com/pforth/
-* http://www.forth.com/swiftforth/index.html (commercial)
-
+There are many implementations of forth
+Please visit the [implementations page](http://www.reddit.com/r/Forth/wiki/implementations) to explore.
 
 ## colorforth
 

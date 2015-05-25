@@ -1,7 +1,0 @@
-* TokenCompilerPortabilityWordsTest
-* InputBytecodeTest
-* ByteCodeToExecutableBasicWordsTest
-* CompileTokensTest
-* ReadInPrimitivesTest
-* ReadInPrimitivesTest2
-* BytecodeSpecialBehaviorsTest
