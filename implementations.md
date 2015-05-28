@@ -58,7 +58,7 @@ IsForth is a direct threaded Linux-only x86 Forth implementation coded in pure a
 * site : ???
 * mirror : https://github.com/xieyuheng/isforth
 
-## lbforth
+## lbForth
 
 * team : Lars Brinkhoff
 * site : https://github.com/larsbrinkhoff/lbForth
