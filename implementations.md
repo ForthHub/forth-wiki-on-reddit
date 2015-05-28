@@ -81,5 +81,10 @@ IsForth is a direct threaded Linux-only x86 Forth implementation coded in pure a
 ## xforth
 
 * site : https://github.com/16Bitt/xforth
+ 
+## Mecrisp / Mecrisp-Stellaris
+
+* site : http://mecrisp.sourceforge.net
+* license : GPL V3
 
 -----------------------------------
